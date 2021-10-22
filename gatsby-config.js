@@ -4,4 +4,5 @@ module.exports = {
     title: "MetroCommon 2050",
   },
   plugins: ["gatsby-plugin-sass"],
+  pathPrefix: "/metrocommon-2050"
 };
