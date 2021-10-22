@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmetro_common_2050=self.webpackChunkmetro_common_2050||[]).push([[576],{29:function(e,n,t){t.r(n);var c=t(7294);t(5444);n.default=function(){return c.createElement("div",null,"this is the Governance AA landing")}}}]);
+//# sourceMappingURL=component---src-pages-action-areas-governance-js-cfc5cf7e0fcf7fe63adc.js.map

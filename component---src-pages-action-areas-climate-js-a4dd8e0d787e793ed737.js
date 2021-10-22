@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmetro_common_2050=self.webpackChunkmetro_common_2050||[]).push([[530],{9625:function(e,n,t){t.r(n);var u=t(7294);t(5444);n.default=function(){return u.createElement("div",null,"this is the Climate AA landing")}}}]);
+//# sourceMappingURL=component---src-pages-action-areas-climate-js-a4dd8e0d787e793ed737.js.map
